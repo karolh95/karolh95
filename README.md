@@ -2,7 +2,7 @@
 
 I'm Karol, a passionate Java developer 
 
-- 🔭 I’m currently working on [Shamir's Secret Sharing](https://github.com/karolh95/ShamirSecretSharing)
+- 🔭 I’m currently working on [Web Quiz Engine](https://github.com/karolh95/WebQuizEngine)
 - 🌱 I’m currently practicing design patterns
 - 🤔 I’m looking for help with trying to find my first software engineering job in this current job climate.
 - 📫 How to reach me: [karolh95@live.com](mailto:karolh95@live.com)
