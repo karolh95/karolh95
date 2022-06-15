@@ -3,8 +3,7 @@
 I'm Karol, a passionate Java developer 
 
 - 🔭 I’m currently working on [Web Quiz Engine Frontend](https://github.com/karolh95/WebQuizEngineFrontend)
-- 🌱 I’m currently practicing design patterns
-- 🤔 I’m looking for help with trying to find my first software engineering job in this current job climate.
+- 🌱 I’m currently practicing design patterns.
 - 📫 How to reach me: [karolh95@live.com](mailto:karolh95@live.com)
 - ⚡ Fun fact: I love to do sports, read books and listen music.
 
