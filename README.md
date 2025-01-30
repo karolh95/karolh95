@@ -1,8 +1,8 @@
 ### Hi, there 👋
 
-I'm Karol, a passionate Java developer 
+I'm Karol, a passionate Java / Node.JS developer
 
-- 🔭 I’m currently working on [Web Quiz Engine Frontend](https://github.com/karolh95/WebQuizEngineFrontend)
+- 🔭 I’m currently working on [NestJS+Auth0](https://github.com/karolh95/auth0)
 - 🌱 I’m currently practicing design patterns.
 - 📫 How to reach me: [karolh95@live.com](mailto:karolh95@live.com)
 - ⚡ Fun fact: I love to do sports, read books and listen music.
